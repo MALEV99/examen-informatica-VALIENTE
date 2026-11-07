@@ -1,7 +1,7 @@
-# Datos del estudiante
+# Datos del estudiante 
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
+- **Apellido y nombre: Valiente Rosa Malena Edith
+- **Tecnicatura:** ( / Comercio Exterior )
+- **Cohorte / turno: Intensivo 
+- **Fecha: 07/11/26
 - **Consigna que desarrollo:** `consignas/` + nombre del archivo
